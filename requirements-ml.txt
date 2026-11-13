@@ -1,0 +1,3 @@
+# Optional: FinBERT headline sentiment (python -m backend.sentiment)
+torch>=2.2
+transformers>=4.40
