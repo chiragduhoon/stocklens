@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+.pytest_cache/
+data/*.db
+data/*.db-*
+.env
+logs/
+test-results/
+playwright-report/
+*.pid
+.ruff_cache/
+tsconfig.tsbuildinfo
